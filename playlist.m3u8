@@ -1,15 +1,10 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-15 13:18:28 Bangladesh Standard Time
-# Sources: 8 | Channels: 35 | Groups: 4
+# Generated: 2026-09-15 18:47:58 Bangladesh Standard Time
+# Sources: 8 | Channels: 40 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae73f694ea89041cecc41fe24236dbea:2ebd28c7580e514092214039dbe026d2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tduyifzmlq/out/v1/9d5dd8704d444a6999c3a3453d35d194/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0309696-db58-43c7-9462-ac3ba1e9b139/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Afghanistan" group-title="Sports",India vs Afghanistan
@@ -79,12 +74,24 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJ1TFD9H" tvg-name="U23 World Cup: Day 1 group-title="Prime Video", Session 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.8dd3aca3-d15b-4bdc-91cd-c1a6669a7127/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 1, Session 3
+#EXTINF:-1 tvg-id="B0HHNQJSB4" tvg-name="Cricket Highlights-ETPL 2026: Flames vs Guardians - 26th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7f55ef4b-0447-424e-9277-0ee1de4d2bc2/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-ETPL 2026: Flames vs Guardians - 26th Match
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0H77YH842" tvg-name="U23 World Cup: Day 1 group-title="Prime Video", Session 5" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.44d5641c-8546-4091-afcb-9a7224c65c04/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 1, Session 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG9V3R72" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ccc13408-78a4-48ac-b444-2128a4366099/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
 #EXTINF:-1 tvg-id="B0HHZ3JZKQ" tvg-name="Triton ONE Poker Series Jeju II-$100K NLH Main Event" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.c887f335-5de4-4ed5-8176-846f7efe13fe/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$100K NLH Main Event
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -93,5 +100,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Tapmad", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894559191020x576.jpg" group-title="Tapmad", Beijing FC vs FC Pohang Steelers Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17347" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894549001020x576.jpg" group-title="Tapmad", Johor Darul Ta'zim FC vs Buriram United Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="Tapmad", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H7PD3W98" tvg-name="European T20 Premier League 2026 - 26th Match - Amsterdam Flames vs Dublin Guardians" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.118470e0-9473-4801-988f-907d4b7a1c04/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 26th Match - Amsterdam Flames vs Dublin Guardians
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=309e85d6694749978e614aa5926c73a9:116d71ce23ee34ac656af54fb1400ffb
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/0yruzktkji/out/v1/d65aac70c1904c7f8d75cbf959fb2d46/cenc.mpd
