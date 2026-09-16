@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-17 02:57:50 Bangladesh Standard Time
-# Sources: 8 | Channels: 63 | Groups: 5
+# Generated: 2026-09-17 05:36:46 Bangladesh Standard Time
+# Sources: 8 | Channels: 40 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -91,75 +91,33 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJNC8H23" tvg-name="BMW PGA Championship Celebrity Pro-Am" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3ecb02c4-a363-4f5a-be89-c322a1ba1825/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",BMW PGA Championship Celebrity Pro-Am
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
-#EXTINF:-1 tvg-id="B0HH4FXJP4" tvg-name="Oklahoma Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7a30b9fd-73b7-4142-9c53-e873c7fe827f/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Oklahoma Final
+#EXTINF:-1 tvg-id="B0HGBHWSRX" tvg-name="Oklahoma 3rd Place Qualifier" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1c06aaba-1e55-4aa6-9e3b-56fcb30804ec/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Oklahoma 3rd Place Qualifier
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 #EXTINF:-1 tvg-id="B0H8YNQ2MD" tvg-name="Tennis Today Live-Tennis Today-Live: Sao Paulo-WTA & Guadalajara-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d19dca97-2438-4b94-b453-7cbc980b5ae1/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Tennis Today-Live: Sao Paulo-WTA & Guadalajara-WTA Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090542644_ENG" tvg-name="AC Milan vs Benfica - MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788526543076688_UEL2627_MD1_AC_Milan_vs_Benfica_4sep_landscape_thumb.jpg" group-title="Sony Liv",AC Milan vs Benfica - MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542644" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788526543076688_UEL2627_MD1_AC_Milan_vs_Benfica_4sep_landscape_thumb.jpg" group-title="Sony Liv", AC Milan vs Benfica - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
-#EXTINF:-1 tvg-id="1090542642_ENG" tvg-name="Anderlecht vs Lyon - MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788518827896688_UEL2627_MD1_Anderlecht_vs_Lyon_4sep_landscape_thumb.jpg" group-title="Sony Liv",Anderlecht vs Lyon - MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542642" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788518827896688_UEL2627_MD1_Anderlecht_vs_Lyon_4sep_landscape_thumb.jpg" group-title="Sony Liv", Anderlecht vs Lyon - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627856~acl=/*~id=86385226256246188496191115833016~hmac=8d864cc113fea04b527ef62bdb8dc7688b01edc33bc0e1e4c9224efbfb4f9770
-#EXTINF:-1 tvg-id="1090542537_ENG" tvg-name="Bayer Leverkusen vs Celje - MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788518056087688_UEL2627_MD1_Leverkusen_vs_Celje_4sep_landscape_thumb.jpg" group-title="Sony Liv",Bayer Leverkusen vs Celje - MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542537" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788518056087688_UEL2627_MD1_Leverkusen_vs_Celje_4sep_landscape_thumb.jpg" group-title="Sony Liv", Bayer Leverkusen vs Celje - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627886~acl=/*~id=31922153699972651055016999411803~hmac=5b17e957bf1618488262894ae7915709b27b13d265d6bb2aa5159d1014a94079
-#EXTINF:-1 tvg-id="1090542647_ENG" tvg-name="Hapoel Beer-Sheva vs GNK Dinamo - MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788529929683688_UEL2627_MD1_Hapoel_Beer_Sheva_vs_GNK_Dinamo_4sep_landscape_thumb.jpg" group-title="Sony Liv",Hapoel Beer-Sheva vs GNK Dinamo - MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788529929683688_UEL2627_MD1_Hapoel_Beer_Sheva_vs_GNK_Dinamo_4sep_landscape_thumb.jpg" group-title="Sony Liv", Hapoel Beer-Sheva vs GNK Dinamo - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627856~acl=/*~id=86385226256246188496191115833016~hmac=8d864cc113fea04b527ef62bdb8dc7688b01edc33bc0e1e4c9224efbfb4f9770
-#EXTINF:-1 tvg-id="1090542643_ENG" tvg-name="Olympiacos vs Jagiellonia - MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788524299653688_UEL2627_MD1_Olympiacos_vs_Jagiellonia_4sep_landscape_thumb.jpg" group-title="Sony Liv",Olympiacos vs Jagiellonia - MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542643" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788524299653688_UEL2627_MD1_Olympiacos_vs_Jagiellonia_4sep_landscape_thumb.jpg" group-title="Sony Liv", Olympiacos vs Jagiellonia - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
-#EXTINF:-1 tvg-id="1090542645_ENG" tvg-name="Sturm Graz vs Rennes -  MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788526820187688_UEL2627_MD1_Sturm_Graz_vs_Rennes_4sep_landscape_thumb.jpg" group-title="Sony Liv",Sturm Graz vs Rennes -  MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542645" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788526820187688_UEL2627_MD1_Sturm_Graz_vs_Rennes_4sep_landscape_thumb.jpg" group-title="Sony Liv", Sturm Graz vs Rennes -  MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
-#EXTINF:-1 tvg-id="1090542646_ENG" tvg-name="Sunderland vs AZ Alkmaar - MD1 - 17 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788527113511688_UEL2627_MD1_Sunderland_vs_AZ_Alkmaar_4sep_landscape_thumb.jpg" group-title="Sony Liv",Sunderland vs AZ Alkmaar - MD1 - 17 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789631884~acl=/*~id=38575106106398181890382962106674~hmac=413935c122c7361a7a2baea21ca2477378d47087b9914e125161d97fcb1d2afd
-#EXTINF:-1 tvg-id="sonyliv-1090542646" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788527113511688_UEL2627_MD1_Sunderland_vs_AZ_Alkmaar_4sep_landscape_thumb.jpg" group-title="Sony Liv", Sunderland vs AZ Alkmaar - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1609/ENG/master.m3u8?hdnea=exp=1789627843~acl=/*~id=60236452795685033898291710105836~hmac=256fa8c3c778179a87c7763d56d0f3b4c134260257903dcf8a7c813a0ef672c7
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-17432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895452021020x576.jpg" group-title="Tapmad", Al Rayyan SC vs Al Faisaly Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17437" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895456521020x576.jpg" group-title="Tapmad", Al Shorta vs Al Seeb Club Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895524531020x576.jpg" group-title="Tapmad", Anderlecht vs OL | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895590251020x576.jpg" group-title="Tapmad", Barcelona vs Racing Santander | LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895531701020x576.jpg" group-title="Tapmad", H. Beer-Sheva vs Dinamo Zagreb | UEFA Europa League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895589261020x576.jpg" group-title="Tapmad", Levante vs Athletic | LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17280" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895525901020x576.jpg" group-title="Tapmad", Leverkusen vs Celje | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895528871020x576.jpg" group-title="Tapmad", Milan vs Benfica | UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17278" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895523271020x576.jpg" group-title="Tapmad", Olympiacos vs Jagiellonia Bialystok | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17283" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895530171020x576.jpg" group-title="Tapmad", Sturm Graz vs Rennes | UEFA Europa League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17281" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895527081020x576.jpg" group-title="Tapmad", Sunderland vs AZ Alkmaar | UEFA Europa League 2026/27
+#EXTINF:-1 tvg-id="tapmad-15811" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895486181020x576.jpg" group-title="Tapmad", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HJW4PLMQ" tvg-name="Caribbean Premier League 2026 - Eliminator - Barbados Tridents vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f79bcf1b-0b8b-4f98-9699-a5da432d6420/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - Eliminator - Barbados Tridents vs Jamaica Kingsmen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7d895d5bccb125fbd0034cc7af3b24e:76b51bcfdaf396f17fcec1ba4543f988
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/buawn8tvhe/out/v1/d51b1adb57b249b881666d9e08a8c167/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCYLP6S8" tvg-name="Womens Asian Games 2026 - 1st Quarter-Final - Bangladesh Women vs China Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a47eab32-1221-4efe-9025-6a533cffbc35/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 1st Quarter-Final - Bangladesh Women vs China Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef3de29e14df908326ccfdf1db74a514:f2960283876fb2e879af5ae03036875e
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/omm1bewfpk/out/v1/14d3e05f30204367ab38bb1546c5f646/cenc.mpd
