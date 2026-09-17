@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-18 03:37:38 Bangladesh Standard Time
-# Sources: 8 | Channels: 43 | Groups: 5
+# Generated: 2026-09-18 05:56:25 Bangladesh Standard Time
+# Sources: 8 | Channels: 42 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -19,9 +19,6 @@ https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg" tvg-name="Sri Lanka Tour of England 2026" group-title="HimelOp",Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789537978~acl=/*~id=41954062133751994242786229961279~hmac=95b9cabf1d89917791a487c6f6f43d9ae4c3e0c9a5e6bdefd4833e3c452dc32e
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" tvg-name="Zimbabwe vs Australia" group-title="HimelOp",Zimbabwe vs Australia
-#EXTVLCOPT:http-referrer=https://www.tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
 #SOURCE-TITLE:Personal-Collection
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Bein 1
@@ -84,12 +81,24 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HHPV78TY" tvg-name="Final: Trinbago Knight Riders vs. Guyana Amazon Warriors" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5d56d5cd-9466-4625-bfcf-2625b55e8a0f/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Final: Trinbago Knight Riders vs. Guyana Amazon Warriors
+#EXTINF:-1 tvg-id="B0H8S4RLCD" tvg-name="Charleston at Concord" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3e729199-9656-4d05-a6b1-f94a230a9b76/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Charleston at Concord
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#EXTINF:-1 tvg-id="B0H8XX53BV" tvg-name="Miles Wolff Cup group-title="Prime Video", Game 3: Teams TBA" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.83c5f638-fc89-485f-a853-e4c8f42e99b1/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Miles Wolff Cup, Game 3: Teams TBA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HH8WNTD8" tvg-name="High Limit-LIVE: Interstate Batteries High Limit Racing from Lucas Oil Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d71d8439-c607-42c3-b011-93c56194353e/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",High Limit-LIVE: Interstate Batteries High Limit Racing from Lucas Oil Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
 #EXTINF:-1 tvg-id="B0HHXDXJB3" tvg-name="PDRA Brian Olson Memorial World Finals - PDRA Pro Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7a593763-9c56-45e5-a5ec-9fd49ccae088/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PDRA Brian Olson Memorial World Finals - PDRA Pro Stars
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -102,35 +111,25 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0H8YNQ2MD" tvg-name="Tennis Today Live-Tennis Today-Live: Sao Paulo-WTA & Guadalajara-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d19dca97-2438-4b94-b453-7cbc980b5ae1/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Tennis Today-Live: Sao Paulo-WTA & Guadalajara-WTA Early Rounds
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-#EXTINF:-1 tvg-id="B0H1219RJH" tvg-name="USHL Hockey: Muskegon Lumberjacks vs Waterloo Black Hawks" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.78ba01d5-0f7c-4957-9565-ca42ff4ef8c4/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",USHL Hockey: Muskegon Lumberjacks vs Waterloo Black Hawks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024067/178961947665553_Asain_games_26_QF_Sri-Lanka-vs-Malaysia_live_landscape_thumb.jpg" group-title="Sony Liv", Sri Lanka vs Malaysia - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/master.m3u8?hdnea=exp=1789732238~acl=/*~id=67994694147398636397816820999205~hmac=847bdf39a769029a696e758504ff7b788af3d22f2c869ec5302558d5ae551488
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-17058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg" group-title="Tapmad", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Tapmad", Malaga vs Villarreal | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15812" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895576171020x576.jpg" group-title="Tapmad", Anitgua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HFZSHSLN" tvg-name="Sri Lanka tour of England 2026 - 2nd T20I - England vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4766fefe-3179-4453-a82b-3866738929bb/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Sri Lanka tour of England 2026 - 2nd T20I - England vs Sri Lanka
+#EXTINF:-1 tvg-id="B0HF53B9NP" tvg-name="Caribbean Premier League 2026 - Qualifier 1- Guyana Amazon Warriors vs Antigua And Barbuda Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.47192df2-0f56-4030-96ad-9c84f56f7368/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - Qualifier 1- Guyana Amazon Warriors vs Antigua And Barbuda Falcons
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJJGJ86F" tvg-name="Womens Caribbean Premier League 2026 - Final - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ec57dee-e7f8-44b7-88c2-5a1ae7f50a0c/1/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - Final - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women
+#KODIPROP:inputstream.adaptive.license_key=3f556ce52c9162e87e8fddb1fb41b874:a786dba73d7f1fde1cc2d2c0f051947c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxf3t6uovz/out/v1/0e4b5f368309487c852a212b34ea2fbf/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF81VXDB" tvg-name="Womens Asian Games 2026 - 3rd Quarter-Final - Malaysia Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7731dc3-3271-4d69-8d3a-5838906e08c8/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 3rd Quarter-Final - Malaysia Women vs Sri Lanka Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c69d7c5adb4a9553c8779252845b70e:ffe2bb9229136d9abd3509ca953ecbe5
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0pazvzkvbw/out/v1/65658b6581b342da895709161387a582/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f943c70883b140132ee3334d094d8ba5:8816ff77c348e508776841677e57b835
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nuld5bymbk/out/v1/67ba037880984fe3911c738cacf06329/cenc.mpd
