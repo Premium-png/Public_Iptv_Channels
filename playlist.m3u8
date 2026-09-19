@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-19 23:48:47 Bangladesh Standard Time
-# Sources: 8 | Channels: 46 | Groups: 5
+# Generated: 2026-09-20 02:09:45 Bangladesh Standard Time
+# Sources: 8 | Channels: 47 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -22,11 +22,13 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r5ni
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb02ab7bce9e74d3b939e7a5e5f96e73:99a7e97db8012327f3be8006a776023a
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hlwch91g5g/out/v1/730b330547bc4a1e8aa9f4c4202c81c5/cenc.mpd
+#EXTINF:-1 tvg-logo="" tvg-name="Sevilla vs Barcelona" group-title="HimelOp",Sevilla vs Barcelona
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg" tvg-name="Sri Lanka Tour of England 2026" group-title="HimelOp",Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789537978~acl=/*~id=41954062133751994242786229961279~hmac=95b9cabf1d89917791a487c6f6f43d9ae4c3e0c9a5e6bdefd4833e3c452dc32e
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" tvg-name="Zimbabwe vs Australia" group-title="HimelOp",Zimbabwe vs Australia
-#EXTVLCOPT:http-referrer=https://www.tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
 #SOURCE-TITLE:Personal-Collection
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Bein 1
@@ -89,30 +91,24 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HG1VH3D7" tvg-name="Arsenal vs. Manchester United" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.27719528-4d7b-45de-a0a9-8b5d0085c22b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Arsenal vs. Manchester United
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="B0HJR6PKX2" tvg-name="Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ae4b32e7-3b4d-4c1c-a345-5b4bdce42eb1/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Day 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
 #EXTINF:-1 tvg-id="B0HHSG2LC2" tvg-name="Tennis Today Live-Davis Cup Qualifiers 2nd Round CAN vs. FRA Rubbers 3 group-title="Prime Video", 4 & 5, ESP vs. CHI Rubbers 1 & 2; Sao Paulo-WTA Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7b15968d-6354-4634-9839-a0f4a6add113/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Davis Cup Qualifiers 2nd Round CAN vs. FRA Rubbers 3, 4 & 5, ESP vs. CHI Rubbers 1 & 2; Sao Paulo-WTA Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HC7R3H1D" tvg-name="Live Prelims-Brown vs. Hedges" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ade7d205-9c19-49bf-b899-e4a90977e539/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Live Prelims-Brown vs. Hedges
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="B0H9Z7HPLF" tvg-name="Evangel University at McPherson" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1a7dcf9f-5d7d-4ad0-b02f-757e0e114044/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Evangel University at McPherson
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="B0HJLFKK5Q" tvg-name="PBA Bowling" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.cf17f54f-bf3c-43a0-94eb-56b160a9c6b7/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PBA Bowling
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -124,30 +120,28 @@ https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHKW73P2" tvg-name="Green Mountain Championship group-title="Prime Video", Round 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.53634b9a-0c37-43b3-9fa4-4a6276029652/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Green Mountain Championship, Round 3
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHRM3Y3Q" tvg-name="Pride vs. Thorns" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f4dd9dab-dfd5-43c1-877f-ddfea664ae9d/38/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Pride vs. Thorns
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHTJK4N8" tvg-name="Villanova vs. Long Island Sharks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f371550b-a88e-445c-92e2-206a251caaae/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Villanova vs. Long Island Sharks
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJBTRTP3" tvg-name="Venezia vs. Lazio" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d955367c-a690-42d7-a8c9-dea9ee4cee4d/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Venezia vs. Lazio
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897169251020x576.jpg" group-title="Tapmad", Celta vs Racing Santander | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17683" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg" group-title="Tapmad", Paris FC vs Strasbourg | French Ligue 1 2026/27
+#EXTINF:-1 tvg-id="tapmad-17687" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898313201020x576.jpg" group-title="Tapmad", Angers vs Troyes | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17684" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898299031020x576.jpg" group-title="Tapmad", Le Mans vs Lorient | French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HK18NQRX" tvg-name="Sri Lanka tour of England 2026 - 3rd T20I - England vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f553e32-5160-4bbb-a2bc-80d97cf445e7/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Sri Lanka tour of England 2026 - 3rd T20I - England vs Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/acwviu4yoa/out/v1/e2a305a5f12840cdbd24c1f8046fe1be/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-17685" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg" group-title="Tapmad", OL vs Rennes | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898316371020x576.jpg" group-title="Tapmad", Sevilla vs Barcelona | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17686" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898310121020x576.jpg" group-title="Tapmad", Toulouse vs Le Havre | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
