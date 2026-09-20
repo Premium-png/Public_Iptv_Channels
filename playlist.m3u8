@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-20 06:16:00 Bangladesh Standard Time
-# Sources: 8 | Channels: 54 | Groups: 6
+# Generated: 2026-09-20 11:13:05 Bangladesh Standard Time
+# Sources: 8 | Channels: 62 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -17,16 +17,6 @@ https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd
-#EXTINF:-1 tvg-logo="" tvg-name="Roma vs Inter" group-title="HimelOp",Roma vs Inter
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb02ab7bce9e74d3b939e7a5e5f96e73:99a7e97db8012327f3be8006a776023a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hlwch91g5g/out/v1/730b330547bc4a1e8aa9f4c4202c81c5/cenc.mpd
-#EXTINF:-1 tvg-logo="" tvg-name="Sevilla vs Barcelona" group-title="HimelOp",Sevilla vs Barcelona
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg" tvg-name="Sri Lanka Tour of England 2026" group-title="HimelOp",Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789537978~acl=/*~id=41954062133751994242786229961279~hmac=95b9cabf1d89917791a487c6f6f43d9ae4c3e0c9a5e6bdefd4833e3c452dc32e
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" tvg-name="Zimbabwe vs Australia" group-title="HimelOp",Zimbabwe vs Australia
@@ -94,86 +84,86 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HGV62C3Z" tvg-name="Courage vs. Gotham FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e9ccf5b-af58-42c4-904d-7d0d9bb3b701/40/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Courage vs. Gotham FC
+#EXTINF:-1 tvg-id="B0HGHF1NGG" tvg-name="NWSL On ION Match Break Show 9/19/26" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.fe4d0301-fe35-411d-ba94-daa9265aa244/38/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",NWSL On ION Match Break Show 9/19/26
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
-#EXTINF:-1 tvg-id="B0HK9WZLFY" tvg-name="EDC1 Div Champ G5 - Fargo-Moorhead vs Kansas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.659c9347-f6e9-4e12-a89a-54c45f91fd0a/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",EDC1 Div Champ G5 - Fargo-Moorhead vs Kansas
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHL672XS" tvg-name="Orix Buffaloes vs. Hokkaido Nippon-Ham Fighters" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.262cbd41-eb75-46cc-96c8-dc88fdcf913b/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Orix Buffaloes vs. Hokkaido Nippon-Ham Fighters
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HH3J2D7J" tvg-name="Tennis Today Live-Davis Cup Qualifiers 2nd Round CAN vs. FRA Rubbers 3 group-title="Prime Video", 4 & 5, ESP vs. CHI Rubbers 1 & 2; Sao Paulo-WTA Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.cae58c16-6a3e-488b-8a83-2dbddcf327ca/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Davis Cup Qualifiers 2nd Round CAN vs. FRA Rubbers 3, 4 & 5, ESP vs. CHI Rubbers 1 & 2; Sao Paulo-WTA Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJLFKK5Q" tvg-name="PBA Bowling" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.cf17f54f-bf3c-43a0-94eb-56b160a9c6b7/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PBA Bowling
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
-https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqwk5gBhpqrofgA2ZmYXN0bHkCeClzc2lkOjAwYThiNWQ4LWFmMTYtNGZhNy05NjRhLWEwMjkwMmM2ZmJkORkBOKEFoQJ4My84dTdqd3p5NWVrL291dC92MS82OTIzNWVmNjQ4NmI0OGUwYmJlZWEwMmIyMGZhYWMzZRkBPIFiVVNYIJ3ptyQem9lI9Mh9q3tzgNoeqNAt3cPi3X7MwW73p-zf/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/8u7jwzy5ek/out/v1/69235ef6486b48e0bbeea02b20faac3e/ee890bd4-4ea5-4708-889c-9d4aa4741892-cenc.mpd?aws.sessionId=4870b4d2-c489-43cb-87f5-9fbae7823700
-#EXTINF:-1 tvg-id="B0HJW3T17W" tvg-name="Pittsburgh Riverhounds SC at Detroit City FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2c067821-2bcd-48d7-acf1-b7c3a9541283/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Pittsburgh Riverhounds SC at Detroit City FC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="B0HJ3TKLPW" tvg-name="PPA Tour Arizona Open: Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a1c6ed41-a77a-4dba-8979-fb58915f7ac1/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Arizona Open: Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCT246GV" tvg-name="SMART Modified Tour at Orange County Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7102c8e4-428d-414c-84cd-83893b6790e0/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",SMART Modified Tour at Orange County Speedway
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/12/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Vietnam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJHDNTY7" tvg-name="Tennessee State vs. Florida A&M" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2676f65e-2c4d-4583-9f19-f8fad7cf3c9b/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Tennessee State vs. Florida A&M
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HH8HPN8R" tvg-name="SFT: Gladiators of the Future 8" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.59f5e7c4-5d4a-42fa-8534-78aca58f93b9/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",SFT: Gladiators of the Future 8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18d22a6846e00697bbfb57878643a3d4:d6bacbdc4bd380fdc6c25f4c717eb0d9
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pws6aidhqu/out/v1/b769e0f9eaca4e818a34eb588537ea6e/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG16L3L7" tvg-name="USHL Hockey: Chicago Steel vs Omaha Lancers" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7faa3f9a-bf2a-435b-b799-50e25d5a6120/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",USHL Hockey: Chicago Steel vs Omaha Lancers
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGFKPNY7" tvg-name="Taranaki v Southland" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.73d39441-1a7e-4633-835d-5e6bce7bb7af/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Taranaki v Southland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHQ9L1WJ" tvg-name="Vores Compact Touring Series at Anderson (IN)" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.095ae35d-17d9-4211-8221-e76a4dae1967/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Vores Compact Touring Series at Anderson (IN)
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+#EXTINF:-1 tvg-id="B0HK8T8RXR" tvg-name="Unknown Match" tvg-logo="https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/sonata-images-prod/US_CHANNELS_LigaMX_AmericavsGuadalajara_0918_ViX_CS/899e6cf4-df87-42cd-80c3-00e7d70ad75d._UR3840 group-title="Prime Video",1440_SX2160_FMjpg_.jpeg" group-title="Prime Video Sports",Unknown Match
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33fd6ed947919b41842b62865954d2bb:c3d98962e9a617f9f59d5b64fd7b2a68
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/axced1qjat/out/v1/eb6ee1f914c04e8bb25dc7fffaf9359b/cenc.mpd
-#EXTINF:-1 tvg-id="B0HDWZLKNF" tvg-name="Monster Jam LIVE-LIVE: Monster Jam from Seattle group-title="Prime Video", WA - 9/19/2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.309c6743-b2df-4552-8566-91f8196a430e/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Monster Jam LIVE-LIVE: Monster Jam from Seattle, WA - 9/19/2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6335da4b1ce142c1c6c1156b713e9dd9:bd62fe6319a61a5a6f798213f1dda0b9
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHL1M1MB" tvg-name="Western Colorado at Colorado Mesa" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3488716a-eae0-440c-a9b9-79caf4e1ef6f/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Western Colorado at Colorado Mesa
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024212/1789821616972902_AG26_womens_SF_pak_vs_sl_landscape_thumb.jpg" group-title="Sony Liv",Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934
-#EXTINF:-1 tvg-id="1090542963_ENG" tvg-name="UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg" group-title="Sony Liv",UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934
-#EXTINF:-1 tvg-id="sonyliv-1090542963" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg" group-title="Sony Liv", UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 | UFC 331 - Van vs Pantoja 2
-https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/master.m3u8?hdnea=exp=1789901435~acl=/*~id=87535589550131472873531038309462~hmac=44c1dd5bebd3241ebf3a230cc7fea3b84561956c77389f9b69374791928a8fb3
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Beach Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037141/AG_Strea1909/ENG/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Beach Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541370/thumbnail/1789875544633_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Chinese Taipei vs Nepal - Men's Team - Table Tennis - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037140/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789910498~acl=/*~id=29302984597121492492039098266282~hmac=26b6ead6b773405427cf0c74b516d4187b29b025301140907e549d8a1d51fba0
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852049069646_AG26_Stream3_hindi_generic_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea1909/HIN/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Hockey - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789910522~acl=/*~id=94234119469154485599961184147912~hmac=edccfafe597d11a0c750ea5d3424843666a2eb3e3fcf17218f15571d6b3cb1c2
+#EXTINF:-1 tvg-id="1090541371_ENG" tvg-name="India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789923330~acl=/*~id=06342250292144004149104076752509~hmac=4e7e96a2171a3aacb40c5ad6b0c3993c1b078b91c2ac1118c246d40d9fe065b1
+#EXTINF:-1 tvg-id="1090541371_HIN" tvg-name="India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789923330~acl=/*~id=06342250292144004149104076752509~hmac=4e7e96a2171a3aacb40c5ad6b0c3993c1b078b91c2ac1118c246d40d9fe065b1
+#EXTINF:-1 tvg-id="1090541371_KAN" tvg-name="India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789923330~acl=/*~id=06342250292144004149104076752509~hmac=4e7e96a2171a3aacb40c5ad6b0c3993c1b078b91c2ac1118c246d40d9fe065b1
+#EXTINF:-1 tvg-id="1090541371_TAM" tvg-name="India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789923330~acl=/*~id=06342250292144004149104076752509~hmac=4e7e96a2171a3aacb40c5ad6b0c3993c1b078b91c2ac1118c246d40d9fe065b1
+#EXTINF:-1 tvg-id="1090541371_TEL" tvg-name="India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789923330~acl=/*~id=06342250292144004149104076752509~hmac=4e7e96a2171a3aacb40c5ad6b0c3993c1b078b91c2ac1118c246d40d9fe065b1
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541369/thumbnail/1789879806987_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Kazakhstan vs Japan - Women - Basketball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789910464~acl=/*~id=74078906048070754202514891025883~hmac=67aef0675c42e9d314a10a7cac4da2ca19ab5fdc11534620cad4056dcc372dc1
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1789877490458_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Malaysia vs Uzbekistan - Men - Hockey - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX2_21909/ENG/master.m3u8?hdnea=exp=1789912236~acl=/*~id=06062149170784323837793246768387~hmac=973b5d6541b099012c9457673c9a043872838da3475ec0aa90ce406c7817c721
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789299380374741_AG26_Karate_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's and Women's Final - Karate - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX7_21909/ENG/master.m3u8?hdnea=exp=1789910498~acl=/*~id=29302984597121492492039098266282~hmac=26b6ead6b773405427cf0c74b516d4187b29b025301140907e549d8a1d51fba0
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's and Women's Prelims - Beach Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022320/AG_DX8_21909/ENG/master.m3u8?hdnea=exp=1789910498~acl=/*~id=29302984597121492492039098266282~hmac=26b6ead6b773405427cf0c74b516d4187b29b025301140907e549d8a1d51fba0
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1789875651878_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's Team - Table Tennis - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/AG_DX6_21909/ENG/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Vietnam vs People's Republic of China - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/master.m3u8?hdnea=exp=1789908641~acl=/*~id=44594673124227265573416367088762~hmac=2fce51333a58f4c33c6cc9627b23b775025b46685b5cd477cf8941db02e68e6c
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Women's Badminton - Badminton - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037139/AG_DX4_21909/ENG/master.m3u8?hdnea=exp=1789910464~acl=/*~id=74078906048070754202514891025883~hmac=67aef0675c42e9d314a10a7cac4da2ca19ab5fdc11534620cad4056dcc372dc1
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Women's Volleyball - Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022319/AG_DX5_21909/ENG/master.m3u8?hdnea=exp=1789910472~acl=/*~id=43814064411174683791513533787119~hmac=546849b761b5b5304cb35e154a3dbe39685c59ecf7c3d753cf3d375a75401279
 
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-17685" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg" group-title="Tapmad", OL vs Rennes | French Ligue 1 2026/27
@@ -182,9 +172,9 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HJZ2L8X9" tvg-name="Womens Asian Games 2026 - 1st Semi-Final - Pakistan Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1b78261c-77a1-4184-b141-3a799cfc5184/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 1st Semi-Final - Pakistan Women vs Sri Lanka Women
+#EXTINF:-1 tvg-id="B0HK36LCQF" tvg-name="Womens Asian Games 2026 - 2nd Semi-Final - Bangladesh Women vs India Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34954482-8b79-4eb1-b48a-d9370b936661/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 2nd Semi-Final - Bangladesh Women vs India Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=630d9cfcc288011decb8f32841f7f7a0:52e742871730efd0e690968f4c999a06
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/m3c3bftznc/out/v1/c9e6e1ffc66b4bd4943aa600ac102b1a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ti5wh1erw/out/v1/0a22d40d486f4a62a36a4865e1544c31/cenc.mpd
