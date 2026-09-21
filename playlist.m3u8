@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-21 04:38:27 Bangladesh Standard Time
-# Sources: 8 | Channels: 41 | Groups: 4
+# Generated: 2026-09-21 06:53:00 Bangladesh Standard Time
+# Sources: 8 | Channels: 50 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -90,31 +90,33 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJQMK4VF" tvg-name="Finals Sunday" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4be74d7d-b4f4-4292-8e03-3206b0fda103/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Finals Sunday
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHLTGC6C" tvg-name="LIVE: BMW PGA Championship Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.33f6ce11-edec-43da-b235-0ed9281113e0/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: BMW PGA Championship Day 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJNC8CXT" tvg-name="PPA Tour Arizona Open: Championships" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.099a0988-3222-482a-853f-23bacfab115a/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Arizona Open: Championships
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJ3TKLPW" tvg-name="PPA Tour Arizona Open: Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a1c6ed41-a77a-4dba-8979-fb58915f7ac1/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Arizona Open: Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1789950382764_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Bangladesh vs Korea - Men's Team - Kabaddi - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8?hdnea=exp=1789993268~acl=/*~id=55580977646979441441902343086473~hmac=aed75460889673c54cf36afd3ff290afd6ff26e13efa125a5bce09c02b1a3f53
+#EXTINF:-1 tvg-id="1090541376_ENG" tvg-name="India vs Japan - Sepaktakraw Regu - 21 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg" group-title="Sony Liv",India vs Japan - Sepaktakraw Regu - 21 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789993619~acl=/*~id=66828414090983880950833358146134~hmac=2966131d018d210f6c9f10f764e9e9e3777f786e6201128593633a5bfafccc85
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg" group-title="Sony Liv", India vs Japan - Sepaktakraw Regu - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789929873781517_AG26_Table_Tennis_Womens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Sony Liv", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sony Liv", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22009/ENG/master.m3u8?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Korea vs Kazakhstan - Women's Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789991454~acl=/*~id=62848847169889564535007961897431~hmac=eb5c5683c8e6474a3e86de5fd34dcb3e535ea9f33ed8a2486d5aa91665759898
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Malaysia vs Mongolia - Men's Team - Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8?hdnea=exp=1789993247~acl=/*~id=17240741076492404648582311619429~hmac=f9506d6e290b46522054988b62ce42ed913f2a5b6c45459c067c3abebe21988a
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's Final - Gymnastics - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22009/ENG/master.m3u8?hdnea=exp=1789995070~acl=/*~id=22057628086045956480278865643585~hmac=82829990e4927b3089e5b35bad07fb219b1ea4beb7bc8e1385f78b3a64d27ae3
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1789948826999_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Republic of Korea vs Kazakhstan - Women - Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852049069646_AG26_Stream3_hindi_generic_landscape_thumb.jpg" group-title="Sony Liv", Stream 3 - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea2009/HIN/master.m3u8?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22009/ENG/master.m3u8?hdnea=exp=1789995079~acl=/*~id=80623298273352762738848063669485~hmac=f6053add08d63b0fb5a608eeaf9bb9d689d5008a63067871997060c2544b51d8
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HH696TQ4" tvg-name="Caribbean Premier League 2026 - Final- Antigua And Barbuda Falcons vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.786bb2e1-1782-474f-a89f-e7bdda656461/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - Final- Antigua And Barbuda Falcons vs Jamaica Kingsmen
@@ -122,4 +124,4 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd
