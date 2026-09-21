@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-21 18:33:07 Bangladesh Standard Time
-# Sources: 8 | Channels: 48 | Groups: 4
+# Generated: 2026-09-22 00:30:25 Bangladesh Standard Time
+# Sources: 8 | Channels: 37 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -91,41 +91,9 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0H8RN63V6" tvg-name="Women's Soccer group-title="Prime Video", Group E: Japan vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5fafa6d6-de37-4667-971c-d709e0d2c9e9/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Women's Soccer, Group E: Japan vs. Chinese Taipei
+#EXTINF:-1 tvg-id="B0HJ3TKLPW" tvg-name="PPA Tour Arizona Open: Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a1c6ed41-a77a-4dba-8979-fb58915f7ac1/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Arizona Open: Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/12/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Vietnam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHDW6GDH" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3347d2a0-4342-43d6-985e-b2fdf8aed0e3/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293150940348_AG26_Baseball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Baseball - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8?hdnea=exp=1790034640~acl=/*~id=01731154146489726006953407448567~hmac=3ce78fe045802f785e011888eda3f8a3a48fa280167ed987285f87587f14a44f
-#EXTINF:-1 tvg-id="1090543296_ENG" tvg-name="Football - 21 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv",Football - 21 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790036747~acl=/*~id=18474567647078351478934720259666~hmac=b71a4b0b298f2e23c103e779d90fa7d082fd999415a6fa58a737ac82170be44e
-#EXTINF:-1 tvg-id="1090543296_HIN" tvg-name="Football - 21 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv",Football - 21 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Hocke2109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790036747~acl=/*~id=18474567647078351478934720259666~hmac=b71a4b0b298f2e23c103e779d90fa7d082fd999415a6fa58a737ac82170be44e
-#EXTINF:-1 tvg-id="1090543296_KAN" tvg-name="Football - 21 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv",Football - 21 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Hocke2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790036747~acl=/*~id=18474567647078351478934720259666~hmac=b71a4b0b298f2e23c103e779d90fa7d082fd999415a6fa58a737ac82170be44e
-#EXTINF:-1 tvg-id="1090543296_TAM" tvg-name="Football - 21 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv",Football - 21 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Hocke2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790036747~acl=/*~id=18474567647078351478934720259666~hmac=b71a4b0b298f2e23c103e779d90fa7d082fd999415a6fa58a737ac82170be44e
-#EXTINF:-1 tvg-id="1090543296_TEL" tvg-name="Football - 21 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv",Football - 21 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Hocke2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790036747~acl=/*~id=18474567647078351478934720259666~hmac=b71a4b0b298f2e23c103e779d90fa7d082fd999415a6fa58a737ac82170be44e
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Football - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/master.m3u8?hdnea=exp=1790031039~acl=/*~id=66634938102034829111416553166741~hmac=151aba0b20b2dce27b964d10c7e17896527c3e904864036251d19af6d9615fe5
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Football - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22009/ENG/master.m3u8?hdnea=exp=1790036438~acl=/*~id=86202340058155801332612402889781~hmac=b9eba310caca046ed758054056edc17e3b6291cdd6fd4b3780608ae224fe9bda
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Volleyball - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8?hdnea=exp=1790034635~acl=/*~id=93771384575473096073811289622968~hmac=21df71816f09db27be4da5bb4abab73c60e4083e811f5a7317f70e810c2eca10
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
