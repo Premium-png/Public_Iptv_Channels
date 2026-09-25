@@ -1,27 +1,19 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-25 20:00:35 Bangladesh Standard Time
-# Sources: 8 | Channels: 58 | Groups: 4
+# Generated: 2026-09-26 00:46:17 Bangladesh Standard Time
+# Sources: 8 | Channels: 49 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023563/1788639748339213_UNL26_Armenia_vs_Latvia_live_landscape_thumb.jpg" tvg-name="Armenia vs Latvia" group-title="HimelOp",Armenia vs Latvia
+https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790393802~acl=/*~id=03134300901097627044653900453843~hmac=0a7faaabd19f91ea4d24326849324451329de00a2ed1fbb8704b17257a767da8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22eba4a0-46e6-4f8b-b46f-b225f7473561/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Australia vs South Africa" group-title="Sports",Australia vs South Africa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
-#EXTINF:-1 tvg-logo="" tvg-name="Bangladesh vs Malaysia" group-title="HimelOp",Bangladesh vs Malaysia
-#EXTVLCOPT:http-referrer=https://www.tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="Bangladesh vs Malaysia - BD Only" group-title="HimelOp",Bangladesh vs Malaysia - BD Only
-https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-1/0/master_2500.m3u8?hdntl=Expires=1790396835~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNWYzZTQ2MTMtZGVjNi00MjY3LWFhNGUtMzRjM2ViZDI3MWQxIn0~Signature=AVCasXv_trK1V8nA87xHV9VdOI8Ozmfb8upvRWP3UegILxLRSbVRIeLdMUiwOvGmcl0f1s_1sBr62ogNLGLwjGpZmbQG
-#EXTINF:-1 tvg-logo="" tvg-name="Brazil vs Australia" group-title="HimelOp",Brazil vs Australia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-logo="" tvg-name="Brazil vs Australia 2" group-title="HimelOp",Brazil vs Australia 2
-https://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023561/1788637773558485_UNL26_Georgia_vs_Northern_Ireland_live_landscape_thumb.jpg" tvg-name="Georgia vs Northern Ireland" group-title="HimelOp",Georgia vs Northern Ireland
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790393802~acl=/*~id=03134300901097627044653900453843~hmac=0a7faaabd19f91ea4d24326849324451329de00a2ed1fbb8704b17257a767da8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" tvg-name="Sri Lanka Tour of England 2026" group-title="HimelOp",Sri Lanka Tour of England 2026
@@ -88,69 +80,43 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HK57NSB9" tvg-name="Liam Davies vs. Nathaniel Collins | Weigh-In" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.60a31782-4565-41cf-9b93-2d6d2f98d01f/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Liam Davies vs. Nathaniel Collins | Weigh-In
+#EXTINF:-1 tvg-id="B0HK575M7B" tvg-name="LIVE: Open de France Championship Day 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.846446fa-215e-48f3-b6d8-5a7da87867a7/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: Open de France Championship Day 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/16/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Vietnam
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HK3LVNGV" tvg-name="Poland vs. Bosnia-Herzegovina" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45fc50ee-564e-4137-bfa4-4541a0a9962f/4/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Poland vs. Bosnia-Herzegovina
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJJ5M7JJ" tvg-name="MVP Open group-title="Prime Video", Round 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5b2964f2-6e5d-4afe-ba98-de5062d336ec/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MVP Open, Round 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJCHDWLJ" tvg-name="Finals group-title="Prime Video", Semifinal: Spain vs. Czechia" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7702edfa-aa3c-4df5-9c3a-d00f204ac0c8/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Finals, Semifinal: Spain vs. Czechia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HK1DRHDK" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3f22ac6e-6151-477b-b191-06310afe0f8b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/master.m3u8?hdnea=exp=1790378437~acl=/*~id=25240111879560624432397032168989~hmac=c409032ad0a0620acb046566a4256cab05c4ff86d7f3aea60983c773573e8d99
-#EXTINF:-1 tvg-id="1090544164_ENG" tvg-name="Day 1 - Session 1 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024788/1790340296721762_Laver_cup26_day1_session1_live_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - Session 1 - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024788/1790340296721762_Laver_cup26_day1_session1_live_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - Session 1 - 25 Sep 2026 | Laver Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790380239~acl=/*~id=66479698721679747444379233724220~hmac=dcc04d2bd6a761b03a865876958b483196b8a2a3e4c65867584153c3cc2eafaa
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Day 7 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Sony Liv",Day 7 - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Day 7 - 25 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Sony Liv",Day 7 - 25 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Day 7 - 25 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Sony Liv",Day 7 - 25 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Day 7 - 25 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Sony Liv",Day 7 - 25 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Sony Liv", Day 7 - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/master.m3u8?hdnea=exp=1790360433~acl=/*~id=67380659028228115656001568790276~hmac=591e2eb62759bca116823a44c273b91fc3f77302098460e4c9e256ba009e30f4
-#EXTINF:-1 tvg-id="sonyliv-1090544116" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844981232657_DP_World_Tour_FedEx_Open_de_France_Day2_landscape_thumb.jpg" group-title="Sony Liv", FedEx Open de France - Day 2 - 25 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/master.m3u8?hdnea=exp=1790378453~acl=/*~id=94722613049793122434382246266478~hmac=be3f31d41734a61b1c79907cdaa7128f8c26e7c2975242455ce1a562ca371c60
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024755/1790325620491914_AG26_Badminton-Mens-Doubles-RD32-Hariharan-Arjun-v-Fajar-Muh-Shohibul_live_landscape_thumb.jpg" group-title="Sony Liv", Hariharan/Arjun vs Fajar/Shohibul - Men's Doubles Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/master.m3u8?hdnea=exp=1790380242~acl=/*~id=02847460506825878706221556123876~hmac=c57fb56aeddf7df0f54770dba83f0dd01e4a54533b56cafcf25e3d71e305358d
-#EXTINF:-1 tvg-id="1090544165_BEN" tvg-name="India vs Panama - 25 Sep 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv",India vs Panama - 25 Sep 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090544165_ENG" tvg-name="India vs Panama - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv",India vs Panama - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090544165_HIN" tvg-name="India vs Panama - 25 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv",India vs Panama - 25 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090544165_KAN" tvg-name="India vs Panama - 25 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv",India vs Panama - 25 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090544165_TAM" tvg-name="India vs Panama - 25 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv",India vs Panama - 25 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="1090544165_TEL" tvg-name="India vs Panama - 25 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv",India vs Panama - 25 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790385884~acl=/*~id=68618711119688830784869091472122~hmac=4256d59518af1805130fee1494c306f6e5c3751b94272bf7bfeddeb458e8e460
-#EXTINF:-1 tvg-id="sonyliv-1090544165" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Sony Liv", India vs Panama - 25 Sep 2026 | India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/master.m3u8?hdnea=exp=1790385635~acl=/*~id=34551706512416949372666734242307~hmac=82d6068182d935ced03d6471db3240ab3dc3ed217f6322fbdf34e5e781484878
+#EXTINF:-1 tvg-id="1090544164_ENG" tvg-name="Day 1 - Session 2 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - Session 2 - 25 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - Session 2 - 25 Sep 2026 | Laver Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790401841~acl=/*~id=00241375648798018520405090714736~hmac=9c2ad187bc5eeb47c62ddd13c4246b41def79c5055d51cd5c6e3e68f0af3a8ee
+#EXTINF:-1 tvg-id="1090544526_ENG" tvg-name="Hungary vs Ukraine - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788731876033414_UNL26_Hungary_vs_Ukraine_live_landscape_thumb.jpg" group-title="Sony Liv",Hungary vs Ukraine - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="sonyliv-1090544526" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788731876033414_UNL26_Hungary_vs_Ukraine_live_landscape_thumb.jpg" group-title="Sony Liv", Hungary vs Ukraine - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/master.m3u8?hdnea=exp=1790403637~acl=/*~id=68175210495668641149512467335788~hmac=3a1c26a4356296d627c09de40e378e4d096b29af24902a6f2ac1196ce92af0e9
+#EXTINF:-1 tvg-id="1090544524_ENG" tvg-name="Italy vs Belgium - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023596/1788702394472375_UNL26_Italy_vs_Belgium_live_landscape_thumb.jpg" group-title="Sony Liv",Italy vs Belgium - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="sonyliv-1090544524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023596/1788702394472375_UNL26_Italy_vs_Belgium_live_landscape_thumb.jpg" group-title="Sony Liv", Italy vs Belgium - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/master.m3u8?hdnea=exp=1790403643~acl=/*~id=23170866196891193793654524135264~hmac=c9e2f8644b420b4427423f023f9101c75412cc5e230700971ff1ee4953905926
+#EXTINF:-1 tvg-id="1090544529_ENG" tvg-name="Montenegro vs Cyprus - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123766036737_UNL_26_Montenegro-vs-Cyprus_live_landscape_thumb.jpg" group-title="Sony Liv",Montenegro vs Cyprus - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="sonyliv-1090544529" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123766036737_UNL_26_Montenegro-vs-Cyprus_live_landscape_thumb.jpg" group-title="Sony Liv", Montenegro vs Cyprus - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/master.m3u8?hdnea=exp=1790403675~acl=/*~id=61413470787351998259707756985136~hmac=8f8f3a6c6e413ca988a720e1362f44fc626a7ebffd7a50a7c44ca669a052c82e
+#EXTINF:-1 tvg-id="1090544527_ENG" tvg-name="Poland vs Bosnia & Herzegovina - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788732930050414_UNL26_Poland_vs_Bosnia_live_landscape_thumb.jpg" group-title="Sony Liv",Poland vs Bosnia & Herzegovina - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="1090544528_ENG" tvg-name="Sweden vs Romania - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123456609737_UNL_26_Sweden-vs-Romania_live_landscape_thumb.jpg" group-title="Sony Liv",Sweden vs Romania - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="sonyliv-1090544528" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123456609737_UNL_26_Sweden-vs-Romania_live_landscape_thumb.jpg" group-title="Sony Liv", Sweden vs Romania - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/master.m3u8?hdnea=exp=1790403668~acl=/*~id=36819889592684323573198131145413~hmac=ade2bbaa6b4cabbb68933800033f6c411fe1b06e4a8f067713af5e366fc43f7c
+#EXTINF:-1 tvg-id="1090544525_ENG" tvg-name="Türkiye vs France - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024810/1790351939736564_UNL2627_Turkiye_vs_France_landscape_thumb.jpg" group-title="Sony Liv",Türkiye vs France - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+#EXTINF:-1 tvg-id="sonyliv-1090544525" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024810/1790351939736564_UNL2627_Turkiye_vs_France_landscape_thumb.jpg" group-title="Sony Liv", Türkiye vs France - 26 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/master.m3u8?hdnea=exp=1790403637~acl=/*~id=68175210495668641149512467335788~hmac=3a1c26a4356296d627c09de40e378e4d096b29af24902a6f2ac1196ce92af0e9
