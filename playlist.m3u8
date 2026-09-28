@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-28 18:29:36 Bangladesh Standard Time
-# Sources: 8 | Channels: 44 | Groups: 4
+# Generated: 2026-09-29 01:48:06 Bangladesh Standard Time
+# Sources: 8 | Channels: 48 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -10,9 +10,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17903353021020x576.jpg" tvg-name="Bangladesh vs Singapore" group-title="HimelOp",Bangladesh vs Singapore
-#EXTVLCOPT:http-referrer=https://www.tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81abe910-3459-40fa-80bb-f9e5b2e25b77/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs. West Indies" group-title="Sports",India vs. West Indies
@@ -82,39 +79,43 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJNF7ZQ1" tvg-name="Athletics 12" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93c4bafa-4e81-4bc2-b138-1218d7ac0be4/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Athletics 12
+#EXTINF:-1 tvg-id="B0HK7DY763" tvg-name="Northern Ireland vs. Hungary" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.108b6958-727c-46a7-b574-100c868adb1c/3/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Northern Ireland vs. Hungary
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJ6M6M7V" tvg-name="ATP Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6adf30c-1890-4e51-8414-bf7f3a8bcf80/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8?hdnea=exp=1790641243~acl=/*~id=24879853086753614370891348231346~hmac=181181ee4d1448852a79f35b76a4cd2bdda573ae67996fab7b30c90e4660ff96
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8?hdnea=exp=1790639434~acl=/*~id=01079861290062040213759107468445~hmac=851ba5d3aade0fae4753e5d4fdd8967cba77f2337cb3a77cc3ad086c1f94d7e7
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="India In Action - Athletics - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Sony Liv",India In Action - Athletics - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790639642~acl=/*~id=08299150825354634631752842860618~hmac=5631f00adfcb13a9dfbf19f692f8d9cc37e3b11687786fcafb54a60f3b630329
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Sony Liv", India In Action - Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/master.m3u8?hdnea=exp=1790641239~acl=/*~id=17225322857500001342774385967642~hmac=afb632b758dc4d5ae15aedb79d844984f32e052facf0725c907b2d880b50fbc0
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025053/1790507716280859_athletics_live_india_in_action_landscape_thumb_multi.jpg" group-title="Sony Liv", India In Action - Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2809/HIN/master.m3u8?hdnea=exp=1790628641~acl=/*~id=54742727601384494536787917435496~hmac=a5558bec34f749a35c30bd23ce7206f633307f98fda84b057798a6aef7961179
-#EXTINF:-1 tvg-id="1090541380_ENG" tvg-name="India vs Bangladesh - Men - Hockey - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025111/1790548484069263_AG26_28Sep_Hockey_Mens_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv",India vs Bangladesh - Men - Hockey - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790639642~acl=/*~id=08299150825354634631752842860618~hmac=5631f00adfcb13a9dfbf19f692f8d9cc37e3b11687786fcafb54a60f3b630329
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025111/1790548484069263_AG26_28Sep_Hockey_Mens_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv", India vs Bangladesh - Men - Hockey - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22709/ENG/master.m3u8?hdnea=exp=1790637630~acl=/*~id=61863240754968183258135919066226~hmac=a11ff170805a7e7aefa440e66930537ddb28923bb8bf6713380cba8228b5cc2e
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Table Tennis - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/ag_mds2_2709/ENG/master.m3u8?hdnea=exp=1790641245~acl=/*~id=89225096122588126205538711736147~hmac=8d5f5c92ff687acb26d472e369faa091ccf94e7b1f3a69b98395c814715bd662
+#EXTINF:-1 tvg-id="1090545177_ENG" tvg-name="Belgium vs France - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790035516907628_UNL2627_Belgium_vs_France_landscape_thumb.jpg" group-title="Sony Liv",Belgium vs France - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790666953~acl=/*~id=92062732236697132244121294422549~hmac=3e7159bda8c4e43aa510a5203c3ab992dd872adad537f543a2a159799a7bb699
+#EXTINF:-1 tvg-id="sonyliv-1090545177" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790035516907628_UNL2627_Belgium_vs_France_landscape_thumb.jpg" group-title="Sony Liv", Belgium vs France - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662856~acl=/*~id=22014688582705949546215953965352~hmac=510333c05544b5ec3f5ceefe51e9e3a4592baad8465c8ae3a81cda7e6a6e5a59
+#EXTINF:-1 tvg-id="1090545176_ENG" tvg-name="Northern Ireland vs Hungary - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035361465813_UNL2627_Northern_Ireland_vs_Hungary_landscape_thumb.jpg" group-title="Sony Liv",Northern Ireland vs Hungary - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790666953~acl=/*~id=92062732236697132244121294422549~hmac=3e7159bda8c4e43aa510a5203c3ab992dd872adad537f543a2a159799a7bb699
+#EXTINF:-1 tvg-id="sonyliv-1090545176" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035361465813_UNL2627_Northern_Ireland_vs_Hungary_landscape_thumb.jpg" group-title="Sony Liv", Northern Ireland vs Hungary - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662885~acl=/*~id=57050115264436775756505463585966~hmac=b211a83627bd91064c34f71a38fced43a91e3a71629eaec8a863bc9b34f98a83
+#EXTINF:-1 tvg-id="1090545174_ENG" tvg-name="Romania vs Bosnia & Herzegovina - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790034970629813_UNL2627_Romania_vs_Bosnia_and_Herzegovina_landscape_thumb.jpg" group-title="Sony Liv",Romania vs Bosnia & Herzegovina - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790666953~acl=/*~id=92062732236697132244121294422549~hmac=3e7159bda8c4e43aa510a5203c3ab992dd872adad537f543a2a159799a7bb699
+#EXTINF:-1 tvg-id="sonyliv-1090545174" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790034970629813_UNL2627_Romania_vs_Bosnia_and_Herzegovina_landscape_thumb.jpg" group-title="Sony Liv", Romania vs Bosnia & Herzegovina - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662893~acl=/*~id=21805643776543711435395635779953~hmac=6fa0619f014afe187b480c787f47f39973c722c107a7a5a9ec2f6676dbf0f72c
+#EXTINF:-1 tvg-id="1090545175_ENG" tvg-name="Sweden vs Poland - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035158217813_UNL2627_Sweden_vs_Poland_landscape_thumb.jpg" group-title="Sony Liv",Sweden vs Poland - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790666953~acl=/*~id=92062732236697132244121294422549~hmac=3e7159bda8c4e43aa510a5203c3ab992dd872adad537f543a2a159799a7bb699
+#EXTINF:-1 tvg-id="sonyliv-1090545175" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035158217813_UNL2627_Sweden_vs_Poland_landscape_thumb.jpg" group-title="Sony Liv", Sweden vs Poland - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662856~acl=/*~id=22014688582705949546215953965352~hmac=510333c05544b5ec3f5ceefe51e9e3a4592baad8465c8ae3a81cda7e6a6e5a59
+#EXTINF:-1 tvg-id="1090545178_ENG" tvg-name="Türkiye vs Italy - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035683567813_UNL2627_Turkiye_vs_Italy_landscape_thumb.jpg" group-title="Sony Liv",Türkiye vs Italy - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790666953~acl=/*~id=92062732236697132244121294422549~hmac=3e7159bda8c4e43aa510a5203c3ab992dd872adad537f543a2a159799a7bb699
+#EXTINF:-1 tvg-id="sonyliv-1090545178" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035683567813_UNL2627_Turkiye_vs_Italy_landscape_thumb.jpg" group-title="Sony Liv", Türkiye vs Italy - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662870~acl=/*~id=33580144775567217679888563389258~hmac=315d87686f9fd6b770df1a7213ccfe6f5dea30f9113b94070a09b5c4372bff3a
+
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-17861" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904486951020x576.jpg" group-title="Tapmad", Belgium vs France - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17862" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904490751020x576.jpg" group-title="Tapmad", Northern Ireland vs Hungary - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17860" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904483411020x576.jpg" group-title="Tapmad", Romania vs Bosnia and Herzegovina - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17864" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904494961020x576.jpg" group-title="Tapmad", Sweden vs Poland - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17863" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904492891020x576.jpg" group-title="Tapmad", Turkiye vs Italy - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
