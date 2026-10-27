@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-27 07:45:10 Bangladesh Standard Time
-# Sources: 8 | Channels: 33 | Groups: 4
+# Generated: 2026-10-27 13:07:02 Bangladesh Standard Time
+# Sources: 8 | Channels: 45 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,15 +69,49 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0H4Q8XQP5" tvg-name="Canadian Open group-title="Prime Video", Day 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6778eb90-00ec-401a-a23a-60e00210c800/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Canadian Open, Day 2
+#EXTINF:-1 tvg-id="B0HH6XPD6K" tvg-name="New Zealand vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac7b9b3e-5230-428a-b89a-274296527714/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLZ6T4GT" tvg-name="Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aae5e67e-bf81-437c-b235-5e849a299cb8/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090550766_ENG" tvg-name="1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg" group-title="Sony Liv",1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793105509~acl=/*~id=95202446262689830458699592741341~hmac=7566cd3cf391d2037d0c381f046146c14370f5347ed633b6629d8b0542155d0e
+https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3
 #EXTINF:-1 tvg-id="sonyliv-1090550766" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg" group-title="Sony Liv", 1st Unofficial Test - Day 4 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120299/criclive2610/ENG/master.m3u8?hdnea=exp=1793094665~acl=/*~id=33578001970725760259722790433657~hmac=b4570ecf0f0c79373633116b1fe4b505d13b3b0d416b3e7411370b66c1366e74
+#EXTINF:-1 tvg-id="1090550767_ENG" tvg-name="3rd T20I - 27 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv",3rd T20I - 27 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3
+#EXTINF:-1 tvg-id="1090550767_HIN" tvg-name="3rd T20I - 27 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv",3rd T20I - 27 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3
+#EXTINF:-1 tvg-id="1090550767_KAN" tvg-name="3rd T20I - 27 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv",3rd T20I - 27 Oct 2026 [KAN]
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3
+#EXTINF:-1 tvg-id="1090550767_TAM" tvg-name="3rd T20I - 27 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv",3rd T20I - 27 Oct 2026 [TAM]
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793127392~acl=/*~id=84202833868698617858057405060774~hmac=9f40b9af6c49b87dc750745635554b8cc0388477ba5994235fd69b25a42390c3
+#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv", 3rd T20I | India Tour of New Zealand 2026 [English]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+#EXTINF:-1 tvg-id="sonyliv-1090550773" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv", 3rd T20I | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793125251~acl=/*~id=08133072583082121495450677842310~hmac=544813feaf3b1e69ee08116a6880a4a859438726bbcd513c79247327e9d43c32
+#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv", 3rd T20I | India Tour of New Zealand 2026 [Hindi]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv", 3rd T20I | India Tour of New Zealand 2026 [Kannada]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT40a1prod-PlaybackConfig/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv", 3rd T20I | India Tour of New Zealand 2026 [Tamil]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+#EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Sony Liv", 3rd T20I | India Tour of New Zealand 2026 [Telugu]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HH6XPD6K" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac7b9b3e-5230-428a-b89a-274296527714/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",New Zealand vs. India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd
