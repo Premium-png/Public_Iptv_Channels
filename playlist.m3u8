@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-31 12:02:08 Bangladesh Standard Time
-# Sources: 8 | Channels: 38 | Groups: 4
+# Generated: 2026-10-31 18:53:02 Bangladesh Standard Time
+# Sources: 8 | Channels: 44 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,53 +69,59 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HN74MMM4" tvg-name="Cricket-WBBL 2026: Strikers vs Stars - 4th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.814fcd40-8961-4e84-abcd-ba91b823f6f6/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cricket-WBBL 2026: Strikers vs Stars - 4th Match
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HMLYWN5Q" tvg-name="Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6d7d22d-e9b7-436e-885e-68eee5ed2f44/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HNGX2HGR" tvg-name="Lincoln City vs. Birmingham City" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d22a43b-fa3e-4372-83d3-b9ef77aeaa0a/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Lincoln City vs. Birmingham City
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15333933304154f97c20ec7fe8921517:b03f8c42cbdc7ce3ff4ffe882bc2d47d
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd
-#EXTINF:-1 tvg-id="B0HP1YTNK3" tvg-name="Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f184d693-d14a-433a-83c0-4bb8ef9b6697/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPLD3B2D" tvg-name="LIVE: HotelPlanner Final 2026 Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d98c54-a92d-4993-a4f7-44e80ede4f3e/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=643a688106924b55e85a1da8eb9eb24d:29b8c149d58312257002a6462ba1882a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd
-#EXTINF:-1 tvg-id="B0HP1BG9N4" tvg-name="Petronas Grand Prix of Malaysia group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a92c755c-d224-4710-8cbf-7b9fc6112d33/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Petronas Grand Prix of Malaysia, Qualifying
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABCQQJ3AAAAAAAAMNW75TXX2HSLGP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-RnGBhpq5VNGA2pjbG91ZGZyb250AngoZmlkOjAxYTE4ZmNkLTRkMWEtNzQ5Ny04ZWZjLWNiMDcyODE2MGIwORkBOKEFoQJ4My9tczIzZnNlcXhmL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlggmKiEeGBr1gcD4qdSK2mZgnyGReow2cYVxx-BXJffhEg/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ms23fseqxf/out/v1/30f3ad9ba2c340739ea2943f29d44b32/a22cb49d-630b-4622-8aea-2407e2640716-cenc.mpd?aws.sessionId=4796439a-0d26-4bae-a317-a8495aeee2b2
-#EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090551185_ENG" tvg-name="Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv",Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a
+#EXTINF:-1 tvg-id="1090551185_HIN" tvg-name="Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv",Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a
+#EXTINF:-1 tvg-id="1090551185_MAL" tvg-name="Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [MAL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv",Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [MAL]
+https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a
+#EXTINF:-1 tvg-id="1090551185_TAM" tvg-name="Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv",Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [TAM]
+https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120307/footlive3110/ENG/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120300/footlive3110/HIN/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Malayalam]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120306/footlive3110/MAL/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Sony Liv", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Tamil]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120304/footlive3110/TAM/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HMLYWN5Q" tvg-name="Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6d7d22d-e9b7-436e-885e-68eee5ed2f44/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15333933304154f97c20ec7fe8921517:b03f8c42cbdc7ce3ff4ffe882bc2d47d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd
-#EXTINF:-1 tvg-id="B0HP1YTNK3" tvg-name="Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f184d693-d14a-433a-83c0-4bb8ef9b6697/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=643a688106924b55e85a1da8eb9eb24d:29b8c149d58312257002a6462ba1882a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd
-#EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
