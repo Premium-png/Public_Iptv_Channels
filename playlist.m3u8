@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-03 05:44:44 Bangladesh Standard Time
-# Sources: 8 | Channels: 32 | Groups: 3
+# Generated: 2026-11-03 10:45:31 Bangladesh Standard Time
+# Sources: 8 | Channels: 30 | Groups: 2
 
 
 #SOURCE-TITLE:HimelOp
@@ -67,9 +67,3 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090551679_ENG" tvg-name="2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="Sony Liv",2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793703522~acl=/*~id=04901099197811233856491351584120~hmac=8c224dc13d15e59fbb603b99557fa8bd5ceeb81cf93fe09ebc263e567c0684c5
-#EXTINF:-1 tvg-id="sonyliv-1090551679" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="Sony Liv", 2nd Unofficial Test - Day 4 | India A Tour of New Zealand [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120299/criclive0211/ENG/master.m3u8?hdnea=exp=1793699451~acl=/*~id=46400774054652309573953798773993~hmac=bafc88b14d1af488e195062afbef13f495a2fa4e32577c05d1c65127c8b37b0e
