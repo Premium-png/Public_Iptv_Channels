@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-12 18:13:49 Bangladesh Standard Time
-# Sources: 8 | Channels: 35 | Groups: 4
+# Generated: 2026-11-13 02:13:22 Bangladesh Standard Time
+# Sources: 8 | Channels: 46 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,27 +69,53 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HPQRQD9H" tvg-name="First Semifinal: Pakistan U19 vs. Bangladesh U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e1a1c7d4-6e6e-4aff-a59c-47ac56d9ad68/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",First Semifinal: Pakistan U19 vs. Bangladesh U19
+#EXTINF:-1 tvg-id="B0HP86C59C" tvg-name="Albania vs. Finland" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e54574f7-8f3a-4f79-b26d-d3582e99f73a/3/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Albania vs. Finland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HQR7LG94" tvg-name="FC Barcelona vs. Arsenal WFC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a358c817-d8b1-48dd-ae41-4bd25baa935a/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",FC Barcelona vs. Arsenal WFC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HP69HR8B" tvg-name="Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.64701d4e-6e16-4f88-b7aa-aed1ad262770/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQ6ZJ6TX" tvg-name="Triton Poker ONE Series Cyprus-$8K Main Event" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.73e1d769-2b15-44d3-bbaf-bb8324e3b6f3/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker ONE Series Cyprus-$8K Main Event
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKHKVS63" tvg-name="Womens Big Bash League 2026 - 20th Match - Melbourne Renegades Women vs Sydney Sixers Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.20e548a6-8e23-47de-95f7-2fa353fafd79/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 20th Match - Melbourne Renegades Women vs Sydney Sixers Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090553557_ENG" tvg-name="DP World Tour Champinship group-title="Sony Liv", Dubai - Day 1 - 12 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Golf",DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794527686~acl=/*~id=30295836558255886886565511258165~hmac=c414462468eef972fa6a755e879e7c7ab5adccc002b186305a9a2306a8cf1971
-#EXTINF:-1 tvg-id="sonyliv-1090553557" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Sony Liv", DP World Tour Champinship, Dubai - Day 1 | DP World Tour [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120300/Golf_DPW1211/ENG/master.m3u8?hdnea=exp=1794509456~acl=/*~id=12741215043937996646257804767319~hmac=6bc2bdad603750242332acb03d8326c7d81ce224e17e123a22248022bd10a0be
+#EXTINF:-1 tvg-id="1090553575_ENG" tvg-name="Albania vs Finland - 13 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" group-title="Sony Liv",Albania vs Finland - 13 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794556172~acl=/*~id=32952936014476040404733876177934~hmac=f943e31a28447b6988be4b790aefc7bd3fe754469363ddd32e27e17721ff6181
+#EXTINF:-1 tvg-id="sonyliv-1090553575" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" group-title="Sony Liv", Albania vs Finland | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1477prod-PlaybackConfig/2120308/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
+#EXTINF:-1 tvg-id="1090553573_ENG" tvg-name="Czechia vs Spain - 13 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" group-title="Sony Liv",Czechia vs Spain - 13 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794556172~acl=/*~id=32952936014476040404733876177934~hmac=f943e31a28447b6988be4b790aefc7bd3fe754469363ddd32e27e17721ff6181
+#EXTINF:-1 tvg-id="sonyliv-1090553573" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" group-title="Sony Liv", Czechia vs Spain | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5fecprod-PlaybackConfig/2120304/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
+#EXTINF:-1 tvg-id="1090553579_ENG" tvg-name="England vs Croatia - 13 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" group-title="Sony Liv",England vs Croatia - 13 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794556172~acl=/*~id=32952936014476040404733876177934~hmac=f943e31a28447b6988be4b790aefc7bd3fe754469363ddd32e27e17721ff6181
+#EXTINF:-1 tvg-id="sonyliv-1090553579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" group-title="Sony Liv", England vs Croatia | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf534prod-PlaybackConfig/2120307/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
+#EXTINF:-1 tvg-id="1090553578_ENG" tvg-name="Italy vs France - 13 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" group-title="Sony Liv",Italy vs France - 13 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794556172~acl=/*~id=32952936014476040404733876177934~hmac=f943e31a28447b6988be4b790aefc7bd3fe754469363ddd32e27e17721ff6181
+#EXTINF:-1 tvg-id="sonyliv-1090553578" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" group-title="Sony Liv", Italy vs France | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2120306/Footlive1211/ENG/master.m3u8?hdnea=exp=1794556249~acl=/*~id=81716585149832399407756899124814~hmac=a29289a57db394e94b51daad778a82dc54545bf4ef8e3c313704d56e5aa97648
+#EXTINF:-1 tvg-id="1090553576_ENG" tvg-name="Montenegro vs Latvia - 13 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" group-title="Sony Liv",Montenegro vs Latvia - 13 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794556172~acl=/*~id=32952936014476040404733876177934~hmac=f943e31a28447b6988be4b790aefc7bd3fe754469363ddd32e27e17721ff6181
+#EXTINF:-1 tvg-id="sonyliv-1090553576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" group-title="Sony Liv", Montenegro vs Latvia | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120305/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
+#EXTINF:-1 tvg-id="1090553577_ENG" tvg-name="San Marino vs Belarus - 13 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" group-title="Sony Liv",San Marino vs Belarus - 13 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794556172~acl=/*~id=32952936014476040404733876177934~hmac=f943e31a28447b6988be4b790aefc7bd3fe754469363ddd32e27e17721ff6181
+#EXTINF:-1 tvg-id="sonyliv-1090553577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" group-title="Sony Liv", San Marino vs Belarus | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6d22prod-PlaybackConfig/2005444/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
